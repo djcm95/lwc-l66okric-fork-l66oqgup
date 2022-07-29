@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/djcm95.lwc-l66okric-fork-l66oqgup",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve PJcswOJQCXEmjyeEDW3H --open"
+  }
+}
