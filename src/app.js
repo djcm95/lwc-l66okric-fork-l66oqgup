@@ -11,7 +11,7 @@ export default class App extends LightningElement {
   get features() {
     return [
       {
-        label: "Learn in the browser.",
+        label: "Learn in the browserfffffffffff.",
         icon: "utility:edit",
       },
       {
